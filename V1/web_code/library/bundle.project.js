@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({"Controller":[function(require,module,exports){
 "use strict";
 cc._RF.push(module, '806bcYbxcNFYKpTMgw+5/TX', 'Controller');
