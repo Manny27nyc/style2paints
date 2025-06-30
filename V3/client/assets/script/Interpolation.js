@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function bicubic(srcImg, destImg, scale) {
 
     let BicubicInterpolation = (function(){

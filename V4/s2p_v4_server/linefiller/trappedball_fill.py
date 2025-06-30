@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import cv2
 import numpy as np
 from scipy.ndimage import label

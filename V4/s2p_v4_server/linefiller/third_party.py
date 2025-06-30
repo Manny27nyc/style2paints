@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import cv2
 from .thinning import *
 from .trappedball_fill import *

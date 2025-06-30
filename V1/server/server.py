@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 chainer_GPU_ID = 0
 tensorflow_GPU_ID = 0
 k_between_tf_and_chainer = 0.8

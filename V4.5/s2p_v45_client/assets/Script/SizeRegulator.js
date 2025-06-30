@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports.minRegulate = function (size, min){
     let w = parseFloat(size[0]);
     let h = parseFloat(size[1]);

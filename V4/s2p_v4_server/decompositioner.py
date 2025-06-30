@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import os
 import numpy as np
 from scipy.spatial import ConvexHull

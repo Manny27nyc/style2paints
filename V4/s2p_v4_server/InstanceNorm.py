@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 from keras.engine import Layer, InputSpec
 from keras import initializers, regularizers, constraints
 from keras import backend as K

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 module.exports.maxRegulate = function (size, max){
     let w = parseFloat(size[0]);
